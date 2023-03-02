@@ -1,11 +1,4 @@
 ---
-layout: default
-title: Another page
-description: This is just another page
+title: Hrithik Joshi Portfolio
+description: This page is still being developed by Hrithik Joshi
 ---
-
-## Welcome to another page
-
-_yay_
-
-[back](./)
