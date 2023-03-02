@@ -1,96 +1,36 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Below are the few projects I have made on topics like Data Visualization and Machine Learning.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Project Number 1
 
-# Header 1
+This is summary for ptoject number 1
+you can find the link for Github below.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Project Number 2
 
-## Header 2
+This is summary for ptoject number 2
+you can find the link for Github below.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Project Number 3
 
-### Header 3
+This is summary for ptoject number 3
+you can find the link for Github below.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Project Number 4
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+This is summary for ptoject number 4
+you can find the link for Github below.
 
-#### Header 4
+## Project Number 5
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+This is summary for ptoject number 5
+you can find the link for Github below.
 
-##### Header 5
+## Project Number 6
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+This is summary for ptoject number 6
+you can find the link for Github below.
 
 ### Small image
 
